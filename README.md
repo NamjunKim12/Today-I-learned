@@ -20,4 +20,4 @@
 
 ## 📌 GIT
 
-  [깃 브랜치 전략(2022.10.19)](https://github.com/NamjunKim12/Today-I-learned/blob/main/git/GitBranchStrategy.md)
+  - [깃 브랜치 전략(2022.10.19)](https://github.com/NamjunKim12/Today-I-learned/blob/main/git/GitBranchStrategy.md)
