@@ -1,8 +1,8 @@
 # Today-I-learned
 공부하며 배운 내용들을 정리합니다. 
 
-# 목차
-### Computer Science
+# ⭐ 목차
+## Computer Science
 
 ### 자료구조
 
@@ -14,4 +14,10 @@
   [OSI 7 Layer(22.10.14)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/OSI7Layer.md)
  
 ### 알고리즘
-  [정렬 알고리즘(2022.10.18)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Algotitnm/Sorting.md);
+  [정렬 알고리즘(2022.10.18)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Algotitnm/Sorting.md)
+  
+  
+
+## GIT
+
+  [깃 브랜치 전략(2022.10.19)](https://github.com/NamjunKim12/Today-I-learned/blob/main/git/GitBranchStrategy.md)
