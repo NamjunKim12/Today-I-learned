@@ -14,3 +14,4 @@
   [OSI 7 Layer(22.10.14)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/OSI7Layer.md)
  
 ### 알고리즘
+  [정렬 알고리즘(2022.10.18)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Algotitnm/Sorting.md);
