@@ -6,12 +6,17 @@
   
 ### Git-flow 전략
 
+![스크린샷 2022-10-19 오전 2 16 07](https://user-images.githubusercontent.com/69416561/196500112-60fe7e74-b0b8-40e5-b48b-a57758553d6b.png)
+
+
 - 크게 다섯개의 브런치를 운영하며 관리한다. 메인브랜치인 main, develop와 보조 브랜치인 feature, release, hotfix로 구성된다. 
 - 소프트웨어 버전 관리가 필요한 앱이나 솔루션, 혹은 publicAPI에 적합하다.
 - 따라서 웹 애플리케이션에서 Git-flow는 적합한 전략이 아니다.
 - 웹 애플리케이션은 일반적으로 롤백되지 않으며, 지속적으로 서비스를 제공하기에 소프트웨어를 다양한 버전으로 지원할 필요가 없기 때문이다.
 
 ### Github-flow 전략
+
+![image](http://cdn-ak.f.st-hatena.com/images/fotolife/s/shoma2da/20151104/20151104223339.png)
 
 - 깃허브에서 만든 단순한 구조의 브랜치 전략이다.
 - main브랜치를 중심으로 운영되며, 기능개발 버그 수정등의 작업용 브랜치를 구분하지 않는 단순한 구조이다.
@@ -26,6 +31,9 @@
 
 - Github-flow 전략을 기반으로 상황에 따라 워크플로우를 활용하는 방법에 대해 추가적 가이드를 제공함.
 
-## 정기 배포 웹 애플리케이션의 브랜치 전략
 
-[브랜치 전략 수립을 위한 전문가의 조언들](http://blog.hwahae.co.kr/all/tech/tech-tech/9507/)
+## 참고자료
+
+- [Git flow, GitHub flow, GitLab flow](https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/)
+
+- [브랜치 전략 수립을 위한 전문가의 조언들](http://blog.hwahae.co.kr/all/tech/tech-tech/9507/)
