@@ -16,7 +16,7 @@
 ### 알고리즘
   - [정렬 알고리즘(2022.10.18)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Algotitnm/Sorting.md)
   
-## 자바스크립트
+## 📌자바스크립트
 
 ### 자료형
 - [Map, Set 자료형()](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/JS/Map,Set.md)
