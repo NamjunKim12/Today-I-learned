@@ -19,7 +19,7 @@
 ## 📌자바스크립트
 
 ### 자료형
-- [Map, Set 자료형()](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/JS/Map,Set.md)
+- [Map, Set 자료형](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/JS/Map,Set.md)
 
 ## 📌 GIT
 
