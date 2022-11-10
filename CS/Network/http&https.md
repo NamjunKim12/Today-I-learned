@@ -2,7 +2,7 @@
 
 ## 📌HTTP 란?
 
-- HyperTexT Protocol의 약자로서, 문서를 전송하기 위한 통신규약(Protocol)을 뜻한다. 
+- HyperText Transfer Protocol의 약자로서, 문서를 전송하기 위한 통신규약(Protocol)을 뜻한다. 
 - `서버`와 `클라이언트`의 사이에서 어떻게 메시지를 교환할지를 정해놓은 규칙이다.
 - 요청`(Request)`와 응답`(Response)`으로 이루어져 있다.
 - 브라우저에서 인터넷 주소 맨 앞에 들어가는 **http://** 가 바로 이 프로토콜을 사용해서 정보를 교환하겠다는 것이다.
