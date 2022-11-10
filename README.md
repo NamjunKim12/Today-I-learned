@@ -5,6 +5,8 @@
 ## 📌 Computer Science 
 
 ### 자료구조
+   - [스택, 큐(2022.11.02)](https://github.com/NamjunKim12/Today-I-learned/blob/main/DataStructure/Stack%20%26%20queue.md)
+   - [우선순위 큐, 힙(2022.11.09)](https://github.com/NamjunKim12/Today-I-learned/blob/main/DataStructure/Stack%20%26%20queue.md)
 
 
 ### 운영체제
