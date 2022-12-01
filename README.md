@@ -20,15 +20,15 @@
  
 ### 알고리즘
   - [정렬 알고리즘(2022.10.18)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Algotitnm/Sorting.md)
-  - [그리디 알고리즘(2022.11.16)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Algotitnm/Greedy.md)
-  - [완전탐색 알고리즘(2022.11.23)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Algotitnm/ExhaustiveSearch.md)
-  - [그래프탐색 알고리즘(2022.11.30)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Algotitnm/BFS,DFS.md)
+  - [그리디 알고리즘(2022.11.16)](https://github.com/NamjunKim12/Today-I-learned/blob/main/Algotithm/Greedy.md)
+  - [완전탐색 알고리즘(2022.11.23)](https://github.com/NamjunKim12/Today-I-learned/blob/main/Algotithm/ExhaustiveSearch.md)
+  - [그래프탐색 알고리즘(2022.11.30)](https://github.com/NamjunKim12/Today-I-learned/blob/main/Algotithm/BFS%2CDFS.md)
   
 ## 📌자바스크립트
 
 ### 자료형
 - [Map, Set 자료형(2022.10.21)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/JS/Map,Set.md)
-- [원시타입과 객체(2022.11.03)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/JS/Primitive&Object.md)
+- [원시타입과 객체(2022.11.03)](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/Primitive%26Object.md)
 
 ## 📌 GIT
 
