@@ -15,8 +15,8 @@
 ### 네트워크
   - [OSI 7 Layer(22.10.14)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/OSI7Layer.md)
   - [TCP/UDP(2022.10.20)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/TCP%2CUDP.md)
-  - [HTTP & HTTPS(2022.11.10)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/HTTP%20&%20HTTPS.md);
-  - [대칭키와 공개키](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/SymmetricKey&PublicKey);
+  - [HTTP & HTTPS(2022.11.10)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/HTTP%20&%20HTTPS.md)
+  - [대칭키와 공개키(2022.12.01)](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/SymmetricKey&PublicKey)
   
  
 ### 알고리즘
