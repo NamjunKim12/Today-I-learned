@@ -24,6 +24,7 @@
   - [그리디 알고리즘(2022.11.16)](https://github.com/NamjunKim12/Today-I-learned/blob/main/Algotithm/Greedy.md)
   - [완전탐색 알고리즘(2022.11.23)](https://github.com/NamjunKim12/Today-I-learned/blob/main/Algotithm/ExhaustiveSearch.md)
   - [그래프탐색 알고리즘(2022.11.30)](https://github.com/NamjunKim12/Today-I-learned/blob/main/Algotithm/BFS%2CDFS.md)
+  - [다이나믹 프로그래밍(2022.12.12)](https://github.com/NamjunKim12/Today-I-learned/blob/main/Algotithm/DynamicProgramming.md)
   
 ## 📌자바스크립트
 
