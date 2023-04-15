@@ -35,3 +35,7 @@
 ## 📌 GIT
 
   - [깃 브랜치 전략(2022.10.19)](https://github.com/NamjunKim12/Today-I-learned/blob/main/git/GitBranchStrategy.md)
+
+## 📌 MySQL
+
+  - [MySQL 기본(2023.01.29)]()
