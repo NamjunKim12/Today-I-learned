@@ -18,7 +18,11 @@
   - [📄 객체](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/009.%EA%B0%9D%EC%B2%B4.md)
   - [📄 원시타입과객체](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/010.%EC%9B%90%EC%8B%9C%ED%83%80%EC%9E%85%EA%B3%BC%20%EA%B0%9D%EC%B2%B4.md)
   - [📄 함수](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/011.%ED%95%A8%EC%88%98.md)
-
+  - 📄 배열
+  - 📄 Symbol
+  - 📄 Map, Set
+  - 📄 정규표현식
+  - 📄 화살표 함수
 
 ### 2️⃣ Intermediate
   - [📄 스코프](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/012.%EC%8A%A4%EC%BD%94%ED%94%84.md)
@@ -26,9 +30,17 @@
   - [📄 프로퍼티 어트리뷰트](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/014.%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8.md)
   - [📄 생성자함수와 객체](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/015.%EC%83%9D%EC%84%B1%EC%9E%90%ED%95%A8%EC%88%98%EC%99%80%EA%B0%9D%EC%B2%B4.md)
   - [📄 함수와 일급객체](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/18.%ED%95%A8%EC%88%98%EC%99%80%EC%9D%BC%EA%B8%89%EA%B0%9D%EC%B2%B4.md)
+  - 📄 프로토타입
+  - 📄 엄격모드
+  - 📄 빌트인객체
+  - 📄 this
+  - 📄 비동기 프로그래밍
 
 ### 3️⃣ Advanced
 
+- 📄 실행컨텍스트
+- 📄 클로저
+- 📄 디바운스, 스로틀
 ## 📌 React
   - [🔗 공식문서](https://react.dev/)
 ## 📌 Computer Science 
@@ -62,5 +74,12 @@
 
   - [📄 깃 브랜치 전략](https://github.com/NamjunKim12/Today-I-learned/blob/main/git/GitBranchStrategy.md)
 
+
+## 📌 ETC
+
+## 📕 Books
+
+- [🗂️ 객체지향의 사실과 오해](https://github.com/NamjunKim12/Today-I-learned/tree/main/books/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%EC%82%AC%EC%8B%A4%EA%B3%BC%EC%98%A4%ED%95%B4.md)
+
 ## ✨ Tips
-  - [🗂️ 개발자영어](https://github.com/NamjunKim12/Today-I-learned/blob/main/Tips/DveloperEnglish)
+  - [🗂️ 개발자영어](https://github.com/NamjunKim12/Today-I-learned/tree/main/Tips/DeveloperEnglish)
