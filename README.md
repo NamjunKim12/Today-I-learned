@@ -80,3 +80,4 @@
 
 ### 🧪 Test
   - [📄 TDD의 Best Practice](https://github.com/NamjunKim12/Today-I-learned/tree/main/ETC/test/BestPracticeOfTDD.md)
+  - [📄 Cypress](https://github.com/NamjunKim12/Today-I-learned/tree/main/ETC/test/cypress.md)
