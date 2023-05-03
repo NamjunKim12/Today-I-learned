@@ -3,6 +3,9 @@
 
 ## 📌 JavaScript
 
+- [🔗 MDN](https://developer.mozilla.org/ko/)
+- [🔗 ECMA-262](https://262.ecma-international.org/13.0/)
+
 ### 0️⃣ What is JavaScript?
   - [📄 프로그래밍이란?](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/000.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80%3F.md)
   - [📄 자바스크립트의 역사](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/001.%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%EC%97%AD%EC%82%AC.md)
@@ -41,6 +44,13 @@
 - 📄 실행컨텍스트
 - 📄 클로저
 - 📄 디바운스, 스로틀
+
+### 4️⃣ ETC
+
+#### 🧹 Clean Code
+
+- [📄 변수와 타입, 경계 및 분기]()
+- [📄 객체와 배열, 함수]()
 ## 📌 React
   - [🔗 공식문서](https://react.dev/)
 ## 📌 Computer Science 
