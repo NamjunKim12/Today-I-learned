@@ -38,6 +38,7 @@
   - 📄 빌트인객체
   - 📄 this
   - 📄 비동기 프로그래밍
+  - 📄 DOM
 
 ### 3️⃣ Advanced
 
@@ -45,12 +46,16 @@
 - 📄 클로저
 - 📄 디바운스, 스로틀
 
-### 4️⃣ ETC
+### 4️⃣ TypeScript
 
-#### 🧹 Clean Code
+### 5️⃣ ETC
 
-- [📄 변수와 타입, 경계 및 분기]()
-- [📄 객체와 배열, 함수]()
+#### 🧹 Clean Code With JavaScript
+
+- [📄 변수와 타입, 경계 및 분기](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/cleanCode/001.%EB%B3%80%EC%88%98%2C%ED%83%80%EC%9E%85%2C%EA%B2%BD%EA%B3%84%2C%EB%B6%84%EA%B8%B0.md)
+- [📄 객체와 배열, 함수](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/cleanCode/002.%EB%B0%B0%EC%97%B4%2C%EA%B0%9D%EC%B2%B4%2C%ED%95%A8%EC%88%98.md)
+- 추상화와 에러 다루기
+- 📄 Browser, Web API와 협업
 ## 📌 React
   - [🔗 공식문서](https://react.dev/)
 ## 📌 Computer Science 
@@ -91,3 +96,4 @@
 ### 🧪 Test
   - [📄 TDD의 Best Practice](https://github.com/NamjunKim12/Today-I-learned/tree/main/ETC/test/BestPracticeOfTDD.md)
   - [📄 Cypress](https://github.com/NamjunKim12/Today-I-learned/tree/main/ETC/test/cypress.md)
+  - 📄 Jest
