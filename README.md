@@ -33,16 +33,16 @@
   - [📄 프로퍼티 어트리뷰트](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/014.%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8.md)
   - [📄 생성자함수와 객체](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/015.%EC%83%9D%EC%84%B1%EC%9E%90%ED%95%A8%EC%88%98%EC%99%80%EA%B0%9D%EC%B2%B4.md)
   - [📄 함수와 일급객체](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/18.%ED%95%A8%EC%88%98%EC%99%80%EC%9D%BC%EA%B8%89%EA%B0%9D%EC%B2%B4.md)
-  - 📄 프로토타입
-  - 📄 엄격모드
-  - 📄 빌트인객체
-  - 📄 this
+  - [📄 프로토타입](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/017.%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
+  - [📄 엄격모드](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/018.%EC%97%84%EA%B2%A9%EB%AA%A8%EB%93%9C.md)
+  - [📄 빌트인객체](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/019.%EB%B9%8C%ED%8A%B8%EC%9D%B8%EA%B0%9D%EC%B2%B4.md)
+  - [📄 this](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/020.this.md)
   - 📄 비동기 프로그래밍
   - 📄 DOM
 
 ### 3️⃣ Advanced
 
-- 📄 실행컨텍스트
+- [📄 실행컨텍스트](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/021.%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - 📄 클로저
 - 📄 디바운스, 스로틀
 
@@ -54,8 +54,8 @@
 
 - [📄 변수와 타입, 경계 및 분기](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/cleanCode/001.%EB%B3%80%EC%88%98%2C%ED%83%80%EC%9E%85%2C%EA%B2%BD%EA%B3%84%2C%EB%B6%84%EA%B8%B0.md)
 - [📄 객체와 배열, 함수](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/cleanCode/002.%EB%B0%B0%EC%97%B4%2C%EA%B0%9D%EC%B2%B4%2C%ED%95%A8%EC%88%98.md)
-- 추상화와 에러 다루기
-- 📄 Browser, Web API와 협업
+- [📄추상화와 에러 다루기](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/cleanCode/003.%EC%B6%94%EC%83%81%ED%99%94%EC%99%80%EC%97%90%EB%9F%AC%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
+- [📄 Browser, Web API와 협업](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/cleanCode/004.WebAPI%26%ED%98%91%EC%97%85.md)
 ## 📌 React
   - [🔗 공식문서](https://react.dev/)
 ## 📌 Computer Science 
@@ -76,6 +76,7 @@
    - [📄 스레드와 프로세스](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/OS/%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
 
 ### 🛜 Network
+  - [📄 네트워크의 기초](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/001.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88.md)
   - [📄OSI 7 Layer](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/OSI7Layer.md)
   - [📄 TCP/UDP](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/TCP%2CUDP.md)
   - [📄 HTTP & HTTPS](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/HTTP%20&%20HTTPS.md)
