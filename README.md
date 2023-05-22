@@ -39,12 +39,16 @@
   - [📄 this](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/020.this.md)
   - 📄 비동기 프로그래밍
   - 📄 DOM
+  - 📄 Promise
+  - 📄 Async/Await
 
 ### 3️⃣ Advanced
 
 - [📄 실행컨텍스트](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/021.%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - 📄 클로저
 - 📄 디바운스, 스로틀
+- 📄 이벤트루프
+- 📄 제너레이터
 
 ### 4️⃣ TypeScript
 
