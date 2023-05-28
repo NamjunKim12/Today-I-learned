@@ -21,11 +21,10 @@
   - [📄 객체](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/009.%EA%B0%9D%EC%B2%B4.md)
   - [📄 원시타입과객체](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/010.%EC%9B%90%EC%8B%9C%ED%83%80%EC%9E%85%EA%B3%BC%20%EA%B0%9D%EC%B2%B4.md)
   - [📄 함수](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/011.%ED%95%A8%EC%88%98.md)
-  - 📄 배열
-  - 📄 Symbol
-  - 📄 Map, Set
-  - 📄 정규표현식
-  - 📄 화살표 함수
+  - [📄 배열](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/026.%EB%B0%B0%EC%97%B4.md)
+  - [📄 Symbol](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/027.%EC%8B%AC%EB%B3%BC.md)
+  - [📄 Map, Set](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/029.Map%2CSet.md)
+  - [📄 ES6 함수](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/025.ES6%ED%95%A8%EC%88%98.md)
 
 ### 2️⃣ Intermediate
   - [📄 스코프](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/012.%EC%8A%A4%EC%BD%94%ED%94%84.md)
@@ -37,22 +36,32 @@
   - [📄 엄격모드](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/018.%EC%97%84%EA%B2%A9%EB%AA%A8%EB%93%9C.md)
   - [📄 빌트인객체](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/019.%EB%B9%8C%ED%8A%B8%EC%9D%B8%EA%B0%9D%EC%B2%B4.md)
   - [📄 this](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/020.this.md)
-  - 📄 비동기 프로그래밍
+  - [📄 비동기 프로그래밍](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/023.%EB%B9%84%EB%8F%99%EA%B8%B0%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+  - [📄 클래스](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/024.%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+  - [📄 에러처리](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/032.%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC.md)
+  - [📄 모듈](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/033.%EB%AA%A8%EB%93%88.md)
+  - 📄 브라우저의 렌더링 과정
   - 📄 DOM
-  - 📄 Promise
-  - 📄 Async/Await
+  - 📄 이벤트
+  - 📄 Ajax
+  - 📄 Rest API
 
 ### 3️⃣ Advanced
 
 - [📄 실행컨텍스트](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/021.%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
-- 📄 클로저
-- 📄 디바운스, 스로틀
-- 📄 이벤트루프
+- [📄이터러블](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/028.%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94.md)
+- [📄 클로저](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/022.%ED%81%B4%EB%A1%9C%EC%A0%80.md)
+- [📄 Promise](https://github.com/NamjunKim12/Today-I-learned/blob/main/JS/031.Promise.md)
 - 📄 제너레이터
+- 📄 Async/Await
+- 📄 디바운스, 스로틀
+- 📄 Babel, webpack
 
-### 4️⃣ TypeScript
+### 4️⃣ WebAPI
 
-### 5️⃣ ETC
+### 5️⃣ TypeScript
+
+### 6️⃣ ETC
 
 #### 🧹 Clean Code With JavaScript
 
