@@ -1,6 +1,19 @@
 # Today-I-Learned
 공부하며 배운 내용들을 정리합니다. 
 
+## 📌 HTML & CSS
+
+- [🔗 MDN](https://developer.mozilla.org/ko/docs/Web/HTML)
+- [🔗 whatwg](https://html.spec.whatwg.org/multipage/)
+
+
+### 📕 HTML
+- [📄 webStorage]()
+
+### 🎨 CSS
+
+- [🔗 MDN](https://developer.mozilla.org/ko/docs/Web/CSS/Reference)
+
 ## 📌 JavaScript
 
 - [🔗 MDN](https://developer.mozilla.org/ko/)
@@ -57,11 +70,11 @@
 - 📄 디바운스, 스로틀
 - 📄 Babel, webpack
 
-### 4️⃣ WebAPI
+### 4️⃣ TypeScript
 
-### 5️⃣ TypeScript
+- [🔗 타입스크립트 핸드북](https://yamoo9.gitbook.io/typescript/)
 
-### 6️⃣ ETC
+### 5️⃣ ETC
 
 #### 🧹 Clean Code With JavaScript
 
