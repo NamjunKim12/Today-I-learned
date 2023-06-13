@@ -109,6 +109,13 @@
   - [📄 대칭키와 공개키](https://github.com/NamjunKim12/Today-I-learned/blob/main/CS/Network/SymmetricKey%26PublicKey.md)
   
  ### 💾 DB
+  - 📄 데이터베이스의 기본
+  - 📄 ERD와 정규화 과정
+  - 📄 트랜잭션과 무결성
+  - 📄 데이터베이스의 종류
+  - 📄 인덱스
+  - 📄 조인의 종류
+  - 📄 조인의 원리
 
 ## 📌 ETC
 
